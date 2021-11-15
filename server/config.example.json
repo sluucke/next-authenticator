@@ -1,0 +1,4 @@
+{
+  "MONGO_URI": "your mongo uri",
+  "JWT_TOKEN": "mysecrettoken"
+}
